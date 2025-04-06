@@ -162,3 +162,13 @@ h1:hover {
     text-decoration: none;
     color: rgb(127, 155, 255);
 }
+
+@media (max-width: 600px) {
+    .all-container {
+        width: 24rem;
+    }
+ 
+    .task-text{
+        font-size: 11px;
+    }
+}
